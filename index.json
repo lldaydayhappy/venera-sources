@@ -1,0 +1,232 @@
+[
+  {
+    "name": "CCC追漫台",
+    "fileName": "ccc.js",
+    "key": "ccc",
+    "version": "1.0.9",
+    "minAppVersion": "1.6.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/ccc.js",
+    "officialVersion": "1.0.1",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "comick",
+    "fileName": "comick.js",
+    "key": "comick",
+    "version": "1.3.0",
+    "minAppVersion": "1.4.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/comick.js",
+    "officialVersion": "1.2.0",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "ehentai",
+    "fileName": "ehentai.js",
+    "key": "ehentai",
+    "version": "1.2.4",
+    "minAppVersion": "1.5.3",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/ehentai.js",
+    "officialVersion": "1.1.8",
+    "upstream": "Souitou-iop"
+  },
+  {
+    "name": "GoDa漫画",
+    "fileName": "goda.js",
+    "key": "goda",
+    "version": "1.2.4",
+    "minAppVersion": "1.4.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/goda.js",
+    "officialVersion": "1.2.1",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "hitomi.la",
+    "fileName": "hitomi.js",
+    "key": "hitomi",
+    "version": "2.0.0",
+    "minAppVersion": "1.4.6",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/hitomi.js",
+    "officialVersion": "1.1.2",
+    "upstream": "Souitou-iop"
+  },
+  {
+    "name": "Komiic",
+    "fileName": "komiic.js",
+    "key": "Komiic",
+    "version": "1.8.3",
+    "minAppVersion": "1.0.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/komiic.js",
+    "officialVersion": "1.0.3",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "Lanraragi",
+    "fileName": "lanraragi.js",
+    "key": "lanraragi",
+    "version": "1.2.3",
+    "minAppVersion": "1.4.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/lanraragi.js",
+    "officialVersion": "1.1.0",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "MangaDex",
+    "fileName": "manga_dex.js",
+    "key": "manga_dex",
+    "version": "1.9.4",
+    "minAppVersion": "1.4.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/manga_dex.js",
+    "officialVersion": "1.2.0",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "MYCOMIC",
+    "fileName": "mycomic.js",
+    "key": "mycomic",
+    "version": "1.1.1",
+    "minAppVersion": "1.4.6",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/mycomic.js",
+    "officialVersion": "1.1.0",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "nhentai",
+    "fileName": "nhentai.js",
+    "key": "nhentai",
+    "version": "2.0.0",
+    "minAppVersion": "1.0.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/nhentai.js",
+    "officialVersion": "1.1.0",
+    "upstream": "Souitou-iop"
+  },
+  {
+    "name": "カドコミ",
+    "fileName": "comic_walker.js",
+    "key": "comic_walker",
+    "version": "1.3.2",
+    "minAppVersion": "1.6.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/comic_walker.js",
+    "officialVersion": "1.0.1",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "优酷漫画",
+    "fileName": "ykmh.js",
+    "key": "ykmh",
+    "version": "1.1.0",
+    "minAppVersion": "1.4.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/ykmh.js",
+    "officialVersion": "1.0.0",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "再漫画",
+    "fileName": "zaimanhua.js",
+    "key": "zaimanhua",
+    "version": "1.2.6",
+    "minAppVersion": "1.0.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/zaimanhua.js",
+    "officialVersion": "1.0.2",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "包子漫画",
+    "fileName": "baozi.js",
+    "key": "baozi",
+    "version": "1.2.1",
+    "minAppVersion": "1.0.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/baozi.js",
+    "officialVersion": "1.1.6",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "少年ジャンプ＋",
+    "fileName": "shonen_jump_plus.js",
+    "key": "shonen_jump_plus",
+    "version": "1.3.1",
+    "minAppVersion": "1.2.1",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/shonen_jump_plus.js",
+    "officialVersion": "1.1.1",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "拷贝漫画(多账号)",
+    "fileName": "copy_manga.js",
+    "key": "copy_manga",
+    "version": "2.3.1",
+    "minAppVersion": "1.6.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/copy_manga.js",
+    "officialVersion": "1.4.1",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "漫画1234",
+    "fileName": "mh1234.js",
+    "key": "mh1234",
+    "version": "1.4.3",
+    "minAppVersion": "1.4.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/mh1234.js",
+    "officialVersion": "1.0.0",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "漫画人",
+    "fileName": "manhuaren.js",
+    "key": "manhuaren",
+    "version": "2.0.0",
+    "minAppVersion": "1.6.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/manhuaren.js",
+    "officialVersion": "1.0.0",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "漫画柜",
+    "fileName": "manhuagui.js",
+    "key": "ManHuaGui",
+    "version": "1.2.3",
+    "minAppVersion": "1.4.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/manhuagui.js",
+    "officialVersion": "1.2.1",
+    "upstream": "Souitou-iop"
+  },
+  {
+    "name": "漫蛙吧",
+    "fileName": "manwaba_fixed_v113.js",
+    "key": "manwaba",
+    "version": "1.1.3",
+    "minAppVersion": "1.6.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/manwaba_fixed_v113.js",
+    "officialVersion": "1.0.2",
+    "upstream": "handahao666-boop"
+  },
+  {
+    "name": "爱看漫",
+    "fileName": "ikmmh.js",
+    "key": "ikmmh",
+    "version": "3.0.1",
+    "minAppVersion": "1.0.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/ikmmh.js",
+    "officialVersion": "1.0.6",
+    "upstream": "LX7kM9"
+  },
+  {
+    "name": "禁漫天堂",
+    "fileName": "jm.js",
+    "key": "jm",
+    "version": "1.4.3",
+    "minAppVersion": "1.5.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/jm.js",
+    "officialVersion": "1.4.0",
+    "upstream": "Souitou-iop"
+  },
+  {
+    "name": "紳士漫畫",
+    "fileName": "wnacg.js",
+    "key": "wnacg",
+    "version": "2.0.0",
+    "minAppVersion": "1.6.0",
+    "url": "https://raw.githubusercontent.com/lldaydayhappy/venera-sources/main/wnacg.js",
+    "officialVersion": "1.0.5",
+    "upstream": "Souitou-iop"
+  }
+]
